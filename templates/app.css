@@ -1,3 +1,7 @@
-.container {
+.navbar-header {
     font-family: 'Times New Roman', Times, serif;
+}
+
+.jumbotron {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
